@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why AI in the legal industry is important for enabling access to justice](chapter-1-2.md)
 - [Chapter 2: Understanding AI in the Legal Industry](chapter-2.md)
   - [Historical overview of AI in the legal industry](chapter-2-1.md)
