@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in the Legal Industry
-=============================================
 
 Artificial intelligence (AI) technology is transforming the legal industry by enabling access to justice and improving efficiency. As technology continues to evolve, new trends are emerging in AI-powered legal services that will shape the future of the industry. However, there are also potential challenges and opportunities that businesses must be aware of as they prepare for the future of AI in the legal industry.
 

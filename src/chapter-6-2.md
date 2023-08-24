@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=================================================================================
 
 Resistance to change is a common challenge when implementing artificial intelligence (AI) technology in the legal industry. Some legal professionals may be hesitant to adopt new technology, fearing that it will replace their jobs or reduce the quality of legal services.
 

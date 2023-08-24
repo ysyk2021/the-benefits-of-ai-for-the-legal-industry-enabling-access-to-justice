@@ -1,5 +1,3 @@
-Types of AI in the Legal Industry
-====================================================================================
 
 Artificial intelligence (AI) technology is transforming the legal industry, providing lawyers and legal professionals with new tools for legal research, e-discovery, contract management, and more. Here are some of the types of AI used in the legal industry.
 

@@ -1,5 +1,3 @@
-Why AI in the Legal Industry is Important for Enabling Access to Justice
-=================================================================================================
 
 Access to justice is a fundamental right that allows individuals and businesses to seek and obtain legal advice, representation, and remedies when their rights are violated. However, access to justice is often limited by factors such as cost, complexity, and time.
 

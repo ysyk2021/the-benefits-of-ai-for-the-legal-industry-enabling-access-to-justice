@@ -1,5 +1,3 @@
-Ethical Considerations
-=========================================================================
 
 As artificial intelligence (AI) technology becomes more prevalent in the legal industry, it raises ethical considerations around fairness, bias, and discrimination. While AI has the potential to improve access to justice and efficiency, it also has the potential to perpetuate existing biases and inequalities. Here are some of the key ethical considerations when using AI in the legal industry.
 

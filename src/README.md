@@ -1,4 +1,3 @@
-# Introduction
 
 The legal industry has always been reliant on technology to manage vast amounts of data and information. However, in recent years, advancements in artificial intelligence (AI) have created new opportunities for the legal profession to improve access to justice and streamline legal processes.
 

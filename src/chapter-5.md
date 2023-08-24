@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in the Legal Industry
-===================================================
 
 Artificial intelligence (AI) technology is transforming the legal industry by enabling access to justice and improving efficiency. There are various applications of AI in the legal industry that can help lawyers and legal professionals streamline their work and provide better services to clients. Here are some of the key applications of AI in the legal industry.
 

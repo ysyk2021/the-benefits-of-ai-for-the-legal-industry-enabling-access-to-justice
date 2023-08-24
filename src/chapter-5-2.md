@@ -1,5 +1,3 @@
-Contract Review and Management
-===================================================================================
 
 Artificial intelligence (AI) technology has significant potential to enhance contract review and management in the legal industry. These applications of AI can help legal professionals manage large volumes of contracts, improve accuracy, and reduce costs.
 

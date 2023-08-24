@@ -1,5 +1,3 @@
-Historical Overview of AI in the Legal Industry
-==================================================================================================
 
 Artificial intelligence (AI) technology has been used in the legal industry for several decades, with early applications including machine learning algorithms to assist in legal research and document management. Here is a historical overview of AI in the legal industry.
 

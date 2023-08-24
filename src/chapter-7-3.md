@@ -1,5 +1,3 @@
-Addressing Potential Bias
-=======================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the legal industry by enhancing efficiency, reducing costs, and improving accessibility to legal services. However, AI systems are not immune to bias, which can lead to discriminatory outcomes and undermine public trust in the justice system. Therefore, it is important to address potential bias in AI systems used in the legal industry.
 

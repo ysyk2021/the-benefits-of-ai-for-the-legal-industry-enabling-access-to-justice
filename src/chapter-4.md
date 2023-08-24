@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI in the Legal Industry
-=================================================
 
 As artificial intelligence (AI) technology becomes more prevalent in the legal industry, it raises various challenges and considerations that businesses must be aware of. These challenges include ethical considerations, legal considerations, and privacy and security concerns. Here are some of the key challenges when using AI in the legal industry.
 

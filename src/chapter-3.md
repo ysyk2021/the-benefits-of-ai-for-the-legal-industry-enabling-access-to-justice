@@ -1,5 +1,3 @@
-Chapter 3: Benefits of AI in the Legal Industry
-===============================================
 
 Artificial intelligence (AI) technology is transforming the legal industry by enabling access to justice, improving efficiency and productivity, and enhancing accuracy and quality of legal services. By harnessing the power of AI algorithms, lawyers and legal professionals can provide more efficient and effective legal services, making it easier and more affordable for people to seek legal advice and representation. Here are some of the ways that AI is benefiting the legal industry.
 

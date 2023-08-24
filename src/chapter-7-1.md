@@ -1,5 +1,3 @@
-Data Management
-=============================================================
 
 Artificial intelligence (AI) systems rely on data to make decisions, and therefore effective data management is critical to the success of AI implementation in the legal industry. This involves collecting, cleaning, organizing, and storing data in a way that enables AI systems to learn and make accurate decisions.
 

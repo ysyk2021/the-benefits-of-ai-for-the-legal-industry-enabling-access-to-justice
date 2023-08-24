@@ -1,5 +1,3 @@
-E-discovery and Litigation Support
-=======================================================================================
 
 Artificial intelligence (AI) technology has significant potential to enhance e-discovery and litigation support in the legal industry. These applications of AI can help legal professionals manage large volumes of data, improve accuracy, and reduce costs.
 

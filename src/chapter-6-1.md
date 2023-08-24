@@ -1,5 +1,3 @@
-Developing an AI Strategy
-===========================================================================
 
 Developing an AI strategy is critical to the successful implementation of artificial intelligence (AI) technology in the legal industry. It involves identifying the business case for AI, setting clear objectives and goals, and determining how AI will be integrated into existing workflows and processes.
 

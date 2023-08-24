@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in the Legal Industry
-============================================
 
 As the use of artificial intelligence (AI) technology in the legal industry continues to grow, it is important to manage AI systems effectively to ensure that they are fair, transparent, and accountable. This involves effective data management, ensuring transparency and accountability, and addressing potential bias.
 

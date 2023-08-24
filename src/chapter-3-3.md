@@ -1,5 +1,3 @@
-Increased Access to Legal Services
-===================================================================================
 
 Artificial intelligence (AI) technology is transforming the legal industry by enabling access to justice for individuals and businesses that might not otherwise have had access to legal services. By harnessing the power of AI algorithms, lawyers and legal professionals can provide more efficient and effective legal services, making it easier and more affordable for people to seek legal advice and representation. Here are some of the ways that AI is increasing access to legal services.
 

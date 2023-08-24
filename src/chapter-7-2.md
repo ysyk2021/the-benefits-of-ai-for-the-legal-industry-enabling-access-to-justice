@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-======================================================================================
 
 As artificial intelligence (AI) becomes more prevalent in the legal industry, it is important to ensure that its use is transparent and accountable. This involves understanding how AI works, ensuring that it operates fairly and without bias, and establishing clear guidelines for its use.
 
