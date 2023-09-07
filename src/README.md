@@ -6,3 +6,7 @@ The Benefits of AI for the Legal Industry: Enabling Access to Justice is a compr
 Throughout the book, you'll find real-world examples and case studies of how AI is being used in the legal industry, as well as practical tips and advice for implementing AI technologies in your own practice. By the end of the book, you'll have a solid understanding of how AI is transforming the legal industry and the ways in which it can be used to improve access to justice for clients.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
