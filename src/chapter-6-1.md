@@ -1,5 +1,4 @@
-Chapter 9: Developing an AI Strategy for Enabling Access to Justice
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing an AI strategy in the legal industry to enable greater access to justice. An effective AI strategy can help legal professionals harness the benefits of artificial intelligence while aligning with their organization's goals and values. This chapter outlines key considerations and steps to develop a robust AI strategy for enabling access to justice.
 

@@ -1,5 +1,4 @@
-Chapter 4: Types of AI in the Legal Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of artificial intelligence (AI) that are utilized in the legal industry. AI technologies have transformed legal practice and enabled greater access to justice. This chapter provides an overview of the key types of AI commonly employed in the legal field.
 

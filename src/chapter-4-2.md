@@ -1,5 +1,4 @@
-Chapter 7: Legal Considerations in AI Adoption for the Legal Industry
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal considerations that arise with the adoption of artificial intelligence (AI) in the legal industry. While AI holds great promise in enabling access to justice, it also presents unique legal challenges and implications. This chapter highlights key legal considerations that legal professionals need to be aware of when incorporating AI technologies into their practice.
 

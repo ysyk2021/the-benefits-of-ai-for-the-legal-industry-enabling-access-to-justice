@@ -1,5 +1,4 @@
-Chapter 6: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of effective data management in the legal industry and how artificial intelligence (AI) can enhance data management practices. As the volume of digital data continues to grow exponentially, it is crucial for legal professionals to efficiently manage and leverage data to enable access to justice. AI-driven data management solutions offer significant benefits in organizing, analyzing, and protecting legal data.
 

@@ -1,5 +1,4 @@
-Chapter 3: How AI Works in the Legal Industry
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into how artificial intelligence (AI) works in the legal industry. Understanding the underlying mechanisms and processes of AI is essential for legal professionals to harness its benefits effectively in enabling access to justice. This chapter provides an overview of the key components and functionalities involved in AI applications within the legal field.
 

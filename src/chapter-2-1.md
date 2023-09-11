@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI in the Legal Industry
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the historical evolution and impact of artificial intelligence (AI) in the legal industry. AI has revolutionized various sectors, and the legal industry is no exception. This chapter provides a chronological overview of key milestones and developments that have shaped the integration of AI technologies into legal practice.
 

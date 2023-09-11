@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for AI Implementation in the Legal Industry
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore best practices for implementing AI technologies in the legal industry to enable access to justice. AI has the potential to transform various aspects of legal practice, from research and analysis to contract management and client services. By following these best practices, legal professionals can ensure successful AI implementation and maximize the benefits it brings.
 

@@ -1,5 +1,4 @@
-Chapter 15: Emerging Trends
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in the integration of artificial intelligence (AI) in the legal industry. As technology continues to advance, new developments and trends are shaping the way AI is utilized to enable access to justice. This chapter aims to highlight some of these emerging trends and their potential impact on the legal profession.
 

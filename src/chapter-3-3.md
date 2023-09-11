@@ -1,5 +1,4 @@
-Chapter 11: Increased Access to Legal Services
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) has significantly increased access to legal services within the legal industry. AI-powered technologies have the potential to bridge the justice gap by providing innovative solutions that enhance affordability, efficiency, and availability of legal services. This chapter focuses on the transformative impact of AI in expanding access to justice for individuals and communities.
 

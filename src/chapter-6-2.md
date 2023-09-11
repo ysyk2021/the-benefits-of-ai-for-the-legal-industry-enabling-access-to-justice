@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges and strategies for overcoming resistance to change in the legal industry when adopting AI technologies. While AI has the potential to revolutionize the legal profession and enable greater access to justice, there can be resistance to change from various stakeholders. This chapter will provide insights into key considerations, common sources of resistance, and effective strategies to navigate and overcome resistance in the legal industry.
 

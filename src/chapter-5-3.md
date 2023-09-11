@@ -1,5 +1,4 @@
-Chapter 5: E-Discovery and Litigation Support
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial role of e-discovery and litigation support in the legal industry and how artificial intelligence (AI) is transforming these processes. E-discovery, the identification, collection, and analysis of electronic information for use as evidence, has become increasingly complex due to the exponential growth of digital data. AI-powered technologies are revolutionizing e-discovery and litigation support, enabling legal professionals to efficiently manage large volumes of electronic data and navigate complex litigation processes.
 

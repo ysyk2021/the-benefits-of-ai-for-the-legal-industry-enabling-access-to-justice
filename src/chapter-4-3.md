@@ -1,5 +1,4 @@
-Chapter 6: Privacy and Security Concerns in AI Adoption for the Legal Industry
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the privacy and security concerns associated with the adoption of artificial intelligence (AI) in the legal industry. While AI has the potential to revolutionize legal practice and enable greater access to justice, it also presents challenges in maintaining confidentiality, protecting sensitive data, and ensuring compliance with privacy regulations. This chapter highlights key considerations and best practices to address privacy and security concerns effectively.
 

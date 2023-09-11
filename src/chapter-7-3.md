@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical topic of addressing potential bias in artificial intelligence (AI) applications within the legal industry. While AI technologies hold great promise in enhancing access to justice, it is essential to proactively identify and mitigate biases that may arise in AI systems. This chapter explores the challenges associated with bias in AI, strategies for addressing bias, and the importance of creating fair and equitable AI-enabled legal practices.
 

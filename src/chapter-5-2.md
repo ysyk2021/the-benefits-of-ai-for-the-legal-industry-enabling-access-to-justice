@@ -1,5 +1,4 @@
-Chapter 7: Contract Review and Management
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of artificial intelligence (AI) on contract review and management in the legal industry. Contracts play a critical role in legal practice, and AI-powered technologies have revolutionized the way contracts are analyzed, reviewed, and managed. This chapter focuses on how AI improves efficiency, accuracy, and accessibility in contract-related processes, ultimately enabling greater access to justice.
 

@@ -1,5 +1,4 @@
-Chapter 8: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can play a pivotal role in ensuring transparency and accountability within the legal industry. Transparency and accountability are crucial elements for fostering trust in the legal system and promoting access to justice. AI-powered technologies offer innovative solutions that enhance transparency, enable efficient auditing processes, and promote accountability across various legal practices.
 
